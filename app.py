@@ -1,6 +1,6 @@
 #================= Importation des librairies ================#
 import dash
-from dash import dcc, html, Output, Input, callback
+from dash import Dash, dcc, html, Output, Input, callback
 import plotly.graph_objects as go
 import dash_bootstrap_components as dbc
 import pandas as pd
